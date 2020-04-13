@@ -1,0 +1,2 @@
+prometheus.exe --config.file=reactive-app.yml
+
